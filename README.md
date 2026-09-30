@@ -29,7 +29,7 @@ For the past 9 years, I've built enterprise backend systems and applied AI pipel
 | Category | Tools & technologies |
 | :--- | :--- |
 | **AI & LLMOps** | Python, LangGraph, LangChain, RAG, LLMOps |
-| **Backend & architecture** | Python, REST APIs, SOAP, Microservices, Docker |
+| **Backend & architecture** | Python, Javascript, PHP, REST APIs, SOAP, Microservices, Docker |
 | **HealthTech & enterprise** | TISS Protocol, Medical Record Processing, RFID, Digital Certification |
 | **DevOps & tooling** | Docker, CI/CD, Git, Linux |
 
