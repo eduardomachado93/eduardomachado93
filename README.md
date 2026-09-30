@@ -38,5 +38,5 @@ For the past 9 years, I've built enterprise backend systems and applied AI pipel
 ### Get in touch
 
 - **LinkedIn:** [linkedin.com/in/eduardo-felipe-machado](https://linkedin.com/in/eduardo-felipe-machado)
-- **Email:** [eduardo_fe_machado@yahoo.com.br](mailto:eduardo_fe_machado@yahoo.com.br)
+- **Email:** [eduardo_fe_machado@yahoo.com.br](mailto:eduardofelipemachado93@gmail.com)
 - **Location:** Curitiba, Paraná, Brazil (open to remote roles worldwide)
